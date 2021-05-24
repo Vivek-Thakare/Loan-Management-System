@@ -1,2 +1,3 @@
 # Loan-Management-System
-A web application developed using React JS, Flask-RESTful and MYSQL as database
+A small web application to simulate the loan management. 
+Tech stack used :- React JS, Flask-RESTful and MYSQL
