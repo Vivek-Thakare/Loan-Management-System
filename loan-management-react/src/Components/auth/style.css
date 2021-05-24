@@ -1,0 +1,12 @@
+input[type="text"],
+input[type="email"],
+input[type="date"]
+{
+    border-radius: 6px;
+}
+
+label {
+    color: mediumblue;
+    font-weight:400;
+    font-size:107%;
+}
