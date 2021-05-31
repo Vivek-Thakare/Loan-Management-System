@@ -3,4 +3,4 @@ A small web application to simulate the loan management and visualize data using
 
 Tech stack used :- React Js, Redux, Flask-RESTful and MYSQL
 
-Any suggestions or improvements is always welcomed.
+Any suggestions or improvements are always welcomed.
