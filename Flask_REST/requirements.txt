@@ -44,7 +44,7 @@ soupsieve==2.2.1
 SQLAlchemy==1.4.15
 sqlparse==0.4.1
 typing-extensions==3.10.0.0
-urllib3==1.26.4
+urllib3==1.26.5
 virtualenv==20.4.3
 virtualenv-clone==0.5.4
 Werkzeug==2.0.1
